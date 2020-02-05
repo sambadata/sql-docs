@@ -14,7 +14,7 @@ SQL est aussi populaire chez les data analyst pour plusieurs raisons :
  1. **SQL est relativement facile à comprendre et apprendre**
 SQL est langage sémantiquement facile à comprendre et à apprendre
 
-2. **SQL est un langage pratique pour interroger à de gros volume de données**
+2. **SQL est un langage pratique pour interroger de gros volume de données**
 SQL peut être utiliser pour accéder à de gros volumes de données distantes.
 On a pas besoin de copier ces données dans une application spécifique pour les exploiter.
 On est pas exposé aux limites en taille de données comme sur les tableurs par exemple.
@@ -61,5 +61,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTIzNjc3Nl19
+eyJoaXN0b3J5IjpbLTcxOTY4MDY2NCwyMDYxMjM2Nzc2XX0=
 -->
