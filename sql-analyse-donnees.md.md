@@ -4,12 +4,7 @@
 ## Pourquoi SQL est-il si populaire ?
 
 D'abord, il est important de souligner que SQL est un langage : Structured Query Langage.
-(h' (0< 11 poe.met de cr';'r une ~ha1ne en m~moi ....
-<ct( " I l
-•
-poe.mel d'écri.e la ~ha1ne ,u. 1'&:.-"".
-• l l.,() poermel " l'uli li soleur de soisir le conlenu de la chaîne,
-• lon9 ueo. () fournil le nomb ... de c .... JClères de 1. ch.ine,
+
 Il est apparu dans les années 7O et il est le langage le plus employé  pour accéder aux données et bases de données aujourd'hui.
 
 SQL dispose de toute une panoplie de fonctions qui permettent aux utilisateurs de lire, modifier et exploiter des données.
@@ -66,6 +61,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzOTg5MTgsLTcxOTY4MDY2NCwyMD
-YxMjM2Nzc2XX0=
+eyJoaXN0b3J5IjpbLTcxOTY4MDY2NCwtNzE5NjgwNjY0LDIwNj
+EyMzY3NzZdfQ==
 -->
