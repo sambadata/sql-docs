@@ -1,5 +1,16 @@
 # Brief Projet
 
+## Travail à faire :
+
+- Réaliser le modèle conceptuel de données (MCD)
+- Réaliser le modèle logique de données (MLD)
+- Créer un dépôt sur votre github pour le projet nommé : *startup-suivi-parc-ordi-portables*
+- Commiter les résultats de vos travaux (fichier image, .pdf, .md, etc.) sur le dépôt github
+
+## Durée 
+1/2 journée
+
+
 ## Automatisation du suivi d'un parc d'ordinateurs portables d'une startup
 
 Une jeune startup composée de 20 salariés travaillant à distance, souhaite faire appel à vos compétences pour automatiser le suivi administratif de son parc d'ordinateurs portables.
@@ -37,16 +48,6 @@ Chaque ordinateur portable appartenant à la startup possède un contrat de main
 
 Le contrat peut également être signé soit avec le fournisseur des ordinateurs, soit avec un autre prestataire.
 
-## Travail à faire :
-
-- Réaliser le modèle conceptuel de données (MCD)
-- Réaliser le modèle logique de données (MLD)
-- Créer un dépôt sur votre github pour le projet nommé : *startup-suivi-parc-ordi-portables*
-- Commiter les résultats de vos travaux (fichier image, .pdf, .md, etc.) sur le dépôt github
-
-## Durée
-1/2 journée
-
 ## tags
 formalisme E/A | merise | modélisation | base de données 
 ## Compétences visées
@@ -54,7 +55,6 @@ formalisme E/A | merise | modélisation | base de données
 |--|--|
 | Concevoir et structurer une base de données | Adapter |
 |Suivre la réalisation du projet|Transposer
-
 
 
 ## Copyright & Licence
@@ -67,5 +67,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzk3MzIyMV19
+eyJoaXN0b3J5IjpbOTUyNzI3OTU1LC01NTM5NzMyMjFdfQ==
 -->
