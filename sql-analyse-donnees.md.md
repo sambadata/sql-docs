@@ -61,6 +61,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTY4MDY2NCwtNzE5NjgwNjY0LDIwNj
-EyMzY3NzZdfQ==
+eyJoaXN0b3J5IjpbLTcxOTY4MDY2NF19
 -->
