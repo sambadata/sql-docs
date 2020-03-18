@@ -2,7 +2,7 @@
 
 ## Travail à faire :
 
-- Réaliser le modèle conceptuel de données (MCD)
+- Proposer un modèle conceptuel de données (MCD)
 - Réaliser le modèle logique de données (MLD)
 - Créer un dépôt sur votre github pour le projet nommé : *startup-suivi-parc-ordi-portables*
 - Commiter les résultats de vos travaux (fichier image, .pdf, .md, etc.) sur le dépôt github
@@ -66,5 +66,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDIwMzUzNiwtNTUzOTczMjIxXX0=
+eyJoaXN0b3J5IjpbODc4ODU5NzY1LC01NjAyMDM1MzYsLTU1Mz
+k3MzIyMV19
 -->
