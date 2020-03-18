@@ -1,4 +1,4 @@
-# Brief Projet
+# Brief Projet : Modélisation, MCD, MLD
 
 ## Travail à faire :
 
@@ -66,6 +66,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4ODU5NzY1LC01NjAyMDM1MzYsLTU1Mz
-k3MzIyMV19
+eyJoaXN0b3J5IjpbMTQyOTA3ODYwNCwtNTYwMjAzNTM2LC01NT
+M5NzMyMjFdfQ==
 -->
