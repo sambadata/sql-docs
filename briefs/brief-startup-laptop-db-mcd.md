@@ -8,9 +8,8 @@
 - Commiter les résultats de vos travaux (fichier image, .pdf, .md, etc.) sur le dépôt github
 
 ## Durée
-1/2 journée
- à répartir si nécessaire selon les disponibiltés
-
+1/2 journée 
+À répartir si besoin
 ## Automatisation du suivi d'un parc d'ordinateurs portables d'une startup
 
 Une jeune startup composée de 20 salariés travaillant à distance, souhaite faire appel à vos compétences pour automatiser le suivi administratif de son parc d'ordinateurs portables.
@@ -67,5 +66,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg2MTEzNTYsLTU1Mzk3MzIyMV19
+eyJoaXN0b3J5IjpbNjgyMDQyMzgsLTU1Mzk3MzIyMV19
 -->
