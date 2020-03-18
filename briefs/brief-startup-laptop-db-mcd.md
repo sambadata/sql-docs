@@ -7,9 +7,9 @@
 - Créer un dépôt sur votre github pour le projet nommé : *startup-suivi-parc-ordi-portables*
 - Commiter les résultats de vos travaux (fichier image, .pdf, .md, etc.) sur le dépôt github
 
-## Durée 
+## Durée
 1/2 journée
-
+ à répartir si nécessaire selon les disponibiltés
 
 ## Automatisation du suivi d'un parc d'ordinateurs portables d'une startup
 
@@ -67,5 +67,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNzI3OTU1LC01NTM5NzMyMjFdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg2MTEzNTYsLTU1Mzk3MzIyMV19
 -->
